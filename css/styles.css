@@ -18,7 +18,7 @@ img{
 }
 h3{
   position: fixed;
-  bottom: 795px;
+  top: 0.1px;
   left: 130px;
   font-size: 40px;
   font-family: Brush Script MT, Brush Script Std, cursive;
